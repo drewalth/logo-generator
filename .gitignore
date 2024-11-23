@@ -1,0 +1,12 @@
+*.png
+*.svg
+*.webp
+*.ico
+*.icns
+*.exe
+*.msi
+
+output/
+
+.DS_Store
+.idea/
