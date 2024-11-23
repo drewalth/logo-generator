@@ -10,3 +10,6 @@ output/
 
 .DS_Store
 .idea/
+
+.env
+cache/
